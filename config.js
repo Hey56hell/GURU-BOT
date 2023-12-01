@@ -8,7 +8,7 @@ import axios from 'axios'
 
 global.owner = [
   ['13309357797', 'Minmin', true],
-  ['6281255369012', 'Ash', true], 
+  ['919554027856', 'honey', true], 
   [''] 
 ] //Number of owners
 
@@ -51,7 +51,7 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.botname = 'Minmin'
-global.premium = 'true'
+global.premium = 'false'
 global.packname = 'Minmin' 
 global.author = '@Minmin' 
 global.menuvid = 'https://telegra.ph/file/085c4b1068f0f4f8db970.mp4'
